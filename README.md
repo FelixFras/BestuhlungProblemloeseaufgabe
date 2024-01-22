@@ -1,1 +1,1 @@
-# BestuhlungProbleml-seaufgabe
+# BestuhlungProblemloeseaufgabe
