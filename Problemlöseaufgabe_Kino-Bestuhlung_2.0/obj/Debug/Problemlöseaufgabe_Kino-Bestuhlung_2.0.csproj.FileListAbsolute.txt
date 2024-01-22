@@ -1,0 +1,7 @@
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\obj\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.csproj.AssemblyReference.cache
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\obj\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\bin\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.exe.config
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\bin\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.exe
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\bin\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.pdb
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\obj\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.exe
+C:\Users\Felix\OneDrive - Berufliche Schulen Bretten\Desktop\Programmieren\JG1\Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0\obj\Debug\Problemlöseaufgabe_Kino-Bestuhlung_2.0.pdb

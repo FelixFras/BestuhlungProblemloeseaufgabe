@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problemlöseaufgabe_Kino-Bestuhlung_2.0", "Problemlöseaufgabe_Kino-Bestuhlung_2.0\Problemlöseaufgabe_Kino-Bestuhlung_2.0.csproj", "{6918ACE0-E611-4FE8-9C80-BD932DF4C729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6918ACE0-E611-4FE8-9C80-BD932DF4C729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6918ACE0-E611-4FE8-9C80-BD932DF4C729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6918ACE0-E611-4FE8-9C80-BD932DF4C729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6918ACE0-E611-4FE8-9C80-BD932DF4C729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AA9B12-2A99-4C14-8B26-00C0C2CFDA81}
+	EndGlobalSection
+EndGlobal
